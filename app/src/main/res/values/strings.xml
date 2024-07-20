@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhatsAppSender</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="send">Send</string>
+</resources>
