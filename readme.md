@@ -14,6 +14,8 @@ An Android app that enables sending WhatsApp messages to people not saved in con
 2. Insert the required phone number
 3. WhatsApp will open on the required phone number chat
 
+Israel's international code (+972) is set as the default code. You may replace it if needed. In future versions I might add an option to change the default code. Don't hold your breath.
+
 ## Requirements
 
 Will only work on Android devices on which WhatsApp is already installed
@@ -27,16 +29,3 @@ The whole story is that the app accessing WhatsApp web API on *https://wa.me/<ph
 1. I would generally not advice my friends to install random *.apk* files from the internet. Don't install it unless you trust me :-)
 2. For more advanced users, you may download the source code and compile an *.apk* file by yourself, after inspecting the source code.
 3. The app should work on most Android devices, but wasn't thoroughly inspected. Let me know if you encounter any problem. Mind you, I don't promise I will fix them...
-
-
-
-
-
-
-
-
-
-
-
-
-
